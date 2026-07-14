@@ -53,5 +53,3 @@ The application will:
 - Display object coordinates and area.
 - Improve tracking accuracy under different lighting conditions.
 
-## Author
-Developed as an OpenCV assignment using Python.
